@@ -1,0 +1,9 @@
+Name:  FireDeptAnalysis
+Description:  Fire Calls-For-Service includes all fire units responses to calls. Each record includes the call number, incident number, address, unit identifier, call type, and disposition. All relevant time intervals are also included. Because this dataset is based on responses, and since most calls involved multiple units, there are multiple records for each call number. Addresses are associated with a block number, intersection or call box, not a specific address.
+Data:  https://data.sfgov.org/Public-Safety/Fire-Department-Calls-for-Service/nuek-vuh3
+Task: There are perceived trends that tend to occur effecting turnout performance.  Explore the validity of each trend.  For each trend, present analysis in the form of visualization (chart, table, etc).
+Software:  Jupyter Notebook
+Steps:  Install Python/Anaconda/Jupyter Notebooks and once installed open FireDeptAnalysis.ipynb and run.  Code can be run cell by cell or run all.  Comments in code will describe each step.
+Time to complete:  6 hours
+Complete all tasks:  Yes
+
